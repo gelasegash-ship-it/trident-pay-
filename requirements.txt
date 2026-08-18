@@ -1,4 +1,0 @@
-   trident-pay-/
-   ├── main.py
-   ├── requirements.txt  ← DOIT ÊTRE ICI
-   └── backend/
